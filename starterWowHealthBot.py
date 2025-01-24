@@ -81,7 +81,7 @@ class ScreenCaptureAgent:
                     print('FPS: '+str(self.fps))
                     if hue_pct < 30:
                         print("LOW HEALTH")
-                        pyautogui.press('2')
+                        #pyautogui.press('2')
                     else:
                         print('Health: ' + str(hue_pct))
                     n_frames = 0
