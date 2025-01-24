@@ -1,0 +1,1 @@
+This is my rudimentary wow bot, at the moment it's capable of tracking health and outputting it to terminal
